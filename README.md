@@ -62,9 +62,8 @@ project-folder/
 ## 🙌 Author
 
 **AJ Shops** created by [jyothika,Asha].  
+
 Feel free to fork, clone, or improve this project!
 
 
-
-🛒 Happy Shopping!
 
