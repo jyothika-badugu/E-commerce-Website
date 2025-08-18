@@ -36,7 +36,7 @@ project-folder/
 ├── b1.jpeg, b2.jpeg, ... (Books)
 ├── t1.jpeg, t2.jpeg, ... (Toys)
 
-> Make sure all image assets referenced in the HTML are located in the `img/` directory.
+## Make sure all image assets referenced in the HTML are located in the `img/` directory.
 
 ## 💡 How to Use
 
